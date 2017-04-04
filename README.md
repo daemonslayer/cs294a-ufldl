@@ -1,2 +1,2 @@
-# ufldl
-UFLDL Tutorial Exercises
+# cs294a-ufldl
+UFLDL Exercises
